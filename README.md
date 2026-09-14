@@ -1,4 +1,4 @@
-#____________Uniapuntes_____________#
+#============Uniapuntes============#
 
 Aplicación para compartir conocimiento
 
